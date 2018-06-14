@@ -273,6 +273,3 @@ class Student {
 }
 
 ```
- <center> ![这里写图片描述](https://img-blog.csdn.net/20180614215510304?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3R3ZW50eW9uZXBpbG90cw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
- ![这里写图片描述](https://img-blog.csdn.net/20180614215517497?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3R3ZW50eW9uZXBpbG90cw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-<center>测试结果</center>
