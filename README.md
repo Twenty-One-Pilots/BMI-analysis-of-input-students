@@ -1,5 +1,6 @@
 # BMI-analysis-of-input-students
 BMI analysis of input students，by Java.
+
 今天的Java实验，是上一次实验代码的改编。要求如下：
 > 1）将 OOBMI改造为CollectionBMI类；将CollectionBMI中的Student[] students改造为ArrayList&lt;Student> students； 
 2）改造inputStudents函数和相关的isExists函数，不要求用户输入学生人数，通过询问用户是否继续输入来决定是否继续输入学生，并判断输入的学生是否已经存在，如果不存在则将输入的学生对象保存到ArrayList&lt;Student> students中。
